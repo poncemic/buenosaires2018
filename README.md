@@ -10,6 +10,7 @@ Workshop for Buenos Aires on 11 May 2018.
 
 ### 2. Create accounts
 
+- entrar a internet
 - Create an account on GitHub: https://github.com/
 - Request an educational GitHub account, if possible: https://education.github.com/discount_requests/new
 - Create a Google account: https://accounts.google.com/signup/v2/webcreateaccount
